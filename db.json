@@ -1,14 +1,50 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+[
+    {
+        "title": "title 1",
+        "description": "description 1",
+        "date": 1662898104,
+        "status": 0,
+        "id": "idqw1",
+        "_id": "1"
+    },
+    {
+        "title": "title 2",
+        "description": "description 2",
+        "date": 1662898044,
+        "status": 0,
+        "id": "idqw2",
+        "_id": "2"
+    },
+    {
+        "title": "title 3",
+        "description": "description 3",
+        "date": 1662897984,
+        "status": 1,
+        "id": "ider3",
+        "_id": "3"
+    },
+    {
+        "title": "title 4",
+        "description": "description 4",
+        "date": 1662897924,
+        "status": 2,
+        "id": "ider",
+        "_id": "4"
+    },
+    {
+        "title": "title 5",
+        "description": "description 5",
+        "date": 1662898047,
+        "status": 0,
+        "id": "id 5",
+        "_id": "5"
+    },
+    {
+        "title": "title 6",
+        "description": "description 6",
+        "date": 1662898248,
+        "status": 91,
+        "id": "id 6",
+        "_id": "6"
+    }
+]
